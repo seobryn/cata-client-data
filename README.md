@@ -1,3 +1,3 @@
-# firelands-cata-data
+# cata-data
 
 Checkout the release section
